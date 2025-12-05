@@ -2,7 +2,7 @@
 
 Polish beginner programmer on his way to get the first IT job
 
-Before I stared coding I spent 4 months to learning about linux, networking and computer science
+Before I started coding I spent 4 months to learning about linux, networking and computer science
 
 I've tested many distros, but my favorite for its simplicity and reliability it's just Linux Mint (cinnamon 🫶)
 
