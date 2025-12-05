@@ -15,11 +15,12 @@ Also before starting coding, I did research on the subject, now it's time to sup
 #### Fun facts:
 
 * I've been a truck driver (Poland, Germany, Czech Republic)
-* I love listing creepypastas
+* I love listening creepypastas
 * Coffee addicted
 * Got 4 cats
 </br>
 See you 😎
 </br>
+
 <img width="1919" height="1079" alt="Screenshot from 2025-12-05 11-35-10" src="https://github.com/user-attachments/assets/b93d4823-51dc-456a-bba3-ebfba6e146fe" />
 
