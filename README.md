@@ -17,7 +17,7 @@ Also before starting coding, I did research on the subject, now it's time to sup
 * I've been a truck driver (Poland, Germany, Czech Republic)
 * I love listening creepypastas
 * Coffee addicted
-* Got 4 cats
+* I'm trying to learn how to do pull-ups
 </br>
 See you 😎
 </br>
