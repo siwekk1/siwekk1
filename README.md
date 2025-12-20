@@ -23,4 +23,4 @@ See you 😎
 </br>
 
 
-<img width="1919" height="1079" alt="Screenshot from 2025-12-20 09-54-14" src="https://github.com/user-attachments/assets/df4cbd6b-138e-473c-b588-bea158323a09" />
+<img width="1919" height="1079" alt="Screenshot from 2025-12-20 10-36-06" src="https://github.com/user-attachments/assets/1cb2262b-a302-4189-a70f-7be800be83ed" />
