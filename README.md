@@ -4,7 +4,7 @@ Polish beginner programmer on his way to get the first IT job
 
 Before I started coding I spent 4 months to learning about linux, networking and computer science
 
-I've tested many distros, but my favorite for its simplicity and reliability it's just Linux Mint (cinnamon 🫶)
+I've tested many distros, but my favorite for its simplicity and reliability it's just Linux Mint/Ubuntu (cinnamon 🫶)
 
 I don't like use commands that I don't know what they actually do I need to know how things work ✅
 
@@ -22,4 +22,5 @@ Also before starting coding, I did research on the subject, now it's time to sup
 See you 😎
 </br>
 
-<img width="1919" height="1079" alt="Screenshot from 2025-12-05 12-36-55" src="https://github.com/user-attachments/assets/5595a8bf-fe66-478e-85b9-358b6b4eabf8" />
+
+<img width="1919" height="1079" alt="Screenshot from 2025-12-20 09-54-14" src="https://github.com/user-attachments/assets/df4cbd6b-138e-473c-b588-bea158323a09" />
