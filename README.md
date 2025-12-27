@@ -10,8 +10,6 @@ I don't like use commands that I don't know what they actually do I need to know
 
 I've never participated in bootcamps and have not studied any IT-related subject, I am self-taught
 
-The IT niche I am most interested in is cybersecurity.
-
 Also before starting coding, I did research on the subject, now it's time to supplement it with practice
 
 #### Fun facts:
